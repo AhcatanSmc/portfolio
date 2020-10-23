@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/https//ahcatansmc.github.io/portfolio/static/css/main.6a7b3530.chunk.css",
-    "main.js": "/https//ahcatansmc.github.io/portfolio/static/js/main.14b037e7.chunk.js",
-    "main.js.map": "/https//ahcatansmc.github.io/portfolio/static/js/main.14b037e7.chunk.js.map",
-    "runtime-main.js": "/https//ahcatansmc.github.io/portfolio/static/js/runtime-main.c041cc00.js",
-    "runtime-main.js.map": "/https//ahcatansmc.github.io/portfolio/static/js/runtime-main.c041cc00.js.map",
-    "static/js/2.03b9b172.chunk.js": "/https//ahcatansmc.github.io/portfolio/static/js/2.03b9b172.chunk.js",
-    "static/js/2.03b9b172.chunk.js.map": "/https//ahcatansmc.github.io/portfolio/static/js/2.03b9b172.chunk.js.map",
-    "index.html": "/https//ahcatansmc.github.io/portfolio/index.html",
-    "precache-manifest.f7a24ba408cb540569c20e69cd0f9343.js": "/https//ahcatansmc.github.io/portfolio/precache-manifest.f7a24ba408cb540569c20e69cd0f9343.js",
-    "service-worker.js": "/https//ahcatansmc.github.io/portfolio/service-worker.js",
-    "static/css/main.6a7b3530.chunk.css.map": "/https//ahcatansmc.github.io/portfolio/static/css/main.6a7b3530.chunk.css.map",
-    "static/js/2.03b9b172.chunk.js.LICENSE.txt": "/https//ahcatansmc.github.io/portfolio/static/js/2.03b9b172.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/https//ahcatansmc.github.io/portfolio/static/media/Background.e27d0ca0.jpg",
-    "static/media/github.png": "/https//ahcatansmc.github.io/portfolio/static/media/github.a2004c82.png",
-    "static/media/insta.png": "/https//ahcatansmc.github.io/portfolio/static/media/insta.6edd621a.png",
-    "static/media/linkedin.png": "/https//ahcatansmc.github.io/portfolio/static/media/linkedin.4adc3fae.png",
-    "static/media/mail.png": "/https//ahcatansmc.github.io/portfolio/static/media/mail.dad75ebd.png",
-    "static/media/ncpicture.jpg": "/https//ahcatansmc.github.io/portfolio/static/media/ncpicture.f6422f03.jpg"
+    "main.css": "/portfolio/static/css/main.3d4da614.chunk.css",
+    "main.js": "/portfolio/static/js/main.18bd3e56.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.18bd3e56.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.e2e01b27.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.e2e01b27.js.map",
+    "static/js/2.03b9b172.chunk.js": "/portfolio/static/js/2.03b9b172.chunk.js",
+    "static/js/2.03b9b172.chunk.js.map": "/portfolio/static/js/2.03b9b172.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.4cce10aa3a2aa8e503be98aeb387a7d7.js": "/portfolio/precache-manifest.4cce10aa3a2aa8e503be98aeb387a7d7.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.3d4da614.chunk.css.map": "/portfolio/static/css/main.3d4da614.chunk.css.map",
+    "static/js/2.03b9b172.chunk.js.LICENSE.txt": "/portfolio/static/js/2.03b9b172.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio/static/media/Background.e27d0ca0.jpg",
+    "static/media/github.png": "/portfolio/static/media/github.a2004c82.png",
+    "static/media/insta.png": "/portfolio/static/media/insta.6edd621a.png",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.4adc3fae.png",
+    "static/media/mail.png": "/portfolio/static/media/mail.dad75ebd.png",
+    "static/media/ncpicture.jpg": "/portfolio/static/media/ncpicture.f6422f03.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c041cc00.js",
+    "static/js/runtime-main.e2e01b27.js",
     "static/js/2.03b9b172.chunk.js",
-    "static/css/main.6a7b3530.chunk.css",
-    "static/js/main.14b037e7.chunk.js"
+    "static/css/main.3d4da614.chunk.css",
+    "static/js/main.18bd3e56.chunk.js"
   ]
 }
