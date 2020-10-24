@@ -11,7 +11,7 @@
   border: white solid 60px;
 }
 
-body:before {
+.App:before {
   content: "";
   display: block;
   position: fixed;
