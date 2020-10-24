@@ -8,7 +8,7 @@ import SubApp from './Components/SubApp'
 const App = () => {
   return <div>
   <Nav/>
-  <SubApp/>
+  <SubApp />
   </div>
     
       
