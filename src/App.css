@@ -121,6 +121,7 @@ hr {
 @media screen and (max-width: 768px) {
   .Homepage {
   width: 75%;
+  height: auto!important;
 }
   .App {
     border: white solid 10px;
