@@ -142,6 +142,7 @@ hr {
 .App-picture {
   width: 60%;
   height: auto!important;
+  object-fit: cover!important;
 }
 
 .Buttonstyle {
