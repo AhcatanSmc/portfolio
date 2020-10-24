@@ -147,7 +147,7 @@ hr {
   height: auto!important;
 }
   .App {
-    border: white solid 10px;
+    border: white solid 0px;
   }
   .Logoleft {
     margin-left: 10px;
