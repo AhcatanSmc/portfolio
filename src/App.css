@@ -119,8 +119,6 @@ hr {
 }
 
 .App-picture {
-  width: 75%;
-  height: auto!important;
   object-fit: contain!important;
 }
 }
@@ -141,8 +139,7 @@ hr {
   }
 
 .App-picture {
-  width: 60%;
-  height: auto!important;
+
   object-fit: contain!important;
 }
 
